@@ -1,0 +1,4 @@
+/Users/yiming/projects/lectures/cse576/cse576_sp20_hw1/build/CMakeFiles/rebuild_cache.dir
+/Users/yiming/projects/lectures/cse576/cse576_sp20_hw1/build/CMakeFiles/edit_cache.dir
+/Users/yiming/projects/lectures/cse576/cse576_sp20_hw1/build/CMakeFiles/test0.dir
+/Users/yiming/projects/lectures/cse576/cse576_sp20_hw1/build/CMakeFiles/uwimg++.dir

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -fdiagnostics-color=always -std=c++11 -pthread -O3 -g -march=native -fPIC -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/test0.dir/src/test/test0.cpp.o  -o ../test0  libuwimg++.dylib -lm -lstdc++ 

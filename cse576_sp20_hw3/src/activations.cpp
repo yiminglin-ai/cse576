@@ -273,7 +273,6 @@ Matrix backward_softmax(const Matrix &out, const Matrix &prev_grad)
     // TODO: Implement the softmax backward pass.
     // Jacobian has a column for each input element
     row_grad = row_grad * jacobian; 
-    NOT_IMPLEMENTED();
     for (int j = 0; j < row_grad.cols; j++)
     {
       grad(i, j) = row_grad(0, j);
